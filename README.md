@@ -20,6 +20,8 @@ install R packages
 
 ```bash
 (cse780) $ conda install -c r r-cardata
+(cse780) $ conda install -c anaconda pandas
+(cse780) $ conda install -c anaconda seaborn
 $
 ```
 
