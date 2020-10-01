@@ -31,6 +31,8 @@ install R packages
 ```bash
 (cse780) $ conda install -c anaconda pandas
 (cse780) $ conda install -c anaconda seaborn
+(cse780) $ conda install -c anaconda pandas
+(cse780) $ conda install -c auto apriori
 ```
 
 Plesase do not use this repository to promote plagiarism. Do not use these reports as your assignments, my advise is to learn by attending the courses and putting elbow grease in to writing the code and reports yourself. When you get stuck everything you need can be found online, use whatever tools you feel the most comfortable i.e. Latex was not first choice so I used Word and it saved me a lot of time. 
